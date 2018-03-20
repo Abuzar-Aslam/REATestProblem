@@ -1,4 +1,4 @@
-package au.com.realestate.hometime;
+package au.com.realestate.modules.hometime;
 
 import org.junit.Test;
 

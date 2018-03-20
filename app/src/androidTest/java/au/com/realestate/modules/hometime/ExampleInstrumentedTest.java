@@ -1,4 +1,4 @@
-package au.com.realestate.hometime;
+package au.com.realestate.modules.hometime;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("au.com.realestate.hometime", appContext.getPackageName());
+        assertEquals("au.com.realestate.modules.hometime", appContext.getPackageName());
     }
 }
